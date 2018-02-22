@@ -1,0 +1,6 @@
+input the number of rows and columns
+11001111
+10111011
+01110010
+01010011
+01010101
